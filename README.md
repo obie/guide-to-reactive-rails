@@ -30,10 +30,12 @@ StimulusReflex is built on top of [CableReady](https://cableready.stimulusreflex
 #### ViewComponent
 [ViewComponent](https://github.com/github/view_component) is a framework extracted from Github's main monolith application that is used to build view components that are, in their words, "reusable, testable & encapsulated". The use of view components makes reactive Rails development feel a little bit like writing React code, because of the latter's emphasis on component classes for constructing its views.
 
-## Examples and Demos
+## Examples and Demos / Sample Code
 
 Working example apps like Chat, Calendar, Todo, and more, with full source code.
 http://expo.stimulusreflex.com/
+
+Toast-style alerts system using Shoelace https://gist.github.com/obie/5c56d87c7b7e4e343ef7504349a69515
 
 ## Videos
 
@@ -65,8 +67,6 @@ Blog posts and other stuff that you can read.
 
 StimulusReflex Documentation
 https://docs.stimulusreflex.com/
-
-
 
 ### Introductory Blog Posts
 
@@ -101,6 +101,8 @@ https://github.com/dotnet/aspnetcore/blob/master/src/Components/README.md
 
 Prism is a framework for making web applications with Ruby and WebAssembly
 https://github.com/prism-rb/prism
+
+Once you're thinking in components, using pre-packaged web components becomes a lot more appealing https://shoelace.style/
 
 ## Credits
 
