@@ -1,5 +1,5 @@
 # Guide to Reactive Rails
-This repository aims to briefly introduce the concept and showcase helpful content that may help you on your Reactive Rails journey. Watch this repository to stay up to date on the latest information published on the web about Reactive Rails.
+This repository aims to briefly introduce the concept and showcase helpful content that may help you on your Reactive Rails journey. Watch this repository to stay up to date on the latest information published on the web about Reactive Rails. (Contributions welcome, just send a PR.)
 
 ## What is Reactive Rails?
 
