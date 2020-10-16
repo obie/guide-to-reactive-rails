@@ -73,7 +73,11 @@ The [excited blog post](https://medium.com/@obie/react-is-dead-long-live-reactiv
 
 [Shoelace](https://shoelace.style/) because once you're thinking in components, using pre-packaged web components becomes a lot more appealing.
 
+[StimulusUse by Hopsoft](https://github.com/stimulus-use/stimulus-use) is a collection of composable behaviors for your Stimulus Controllers.
+
 [StimulusControllers by Hopsoft](https://github.com/hopsoft/stimulus_controllers/tree/master/controllers/src) features a collection of useful Stimulus controllers like auto-suggest and copy to clipboard.
+
+[Stimulus Form Utilities by Hopsoft](https://github.com/eelcoj/stimulus-form-utilities) is a collection of useful form helpers like characters count for any input field and auto text-field resizing.
 
 [StimulusReflexGlobalId](https://github.com/joshleblanc/stimulus_reflex_globalid) automatically maps global IDs to instance variables during a reflex.
 
