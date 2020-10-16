@@ -32,10 +32,9 @@ StimulusReflex is built on top of [CableReady](https://cableready.stimulusreflex
 
 ## Examples and Demos / Sample Code
 
-Working example apps like Chat, Calendar, Todo, and more, with full source code.
-http://expo.stimulusreflex.com/
+[Working example apps](http://expo.stimulusreflex.com/) like Chat, Calendar, Todo, and more, with full source code.
 
-Toast-style alerts system using Shoelace https://gist.github.com/obie/5c56d87c7b7e4e343ef7504349a69515
+[Toast-style alerts system](https://gist.github.com/obie/5c56d87c7b7e4e343ef7504349a69515) using [Shoelace](https://shoelace.style/)
 
 ## Videos
 
@@ -44,20 +43,15 @@ Mainstream awareness (among Rails developers, anyway) of Reactive Rails was stim
 
 ### Tutorials
 
-Building a Reactive Todo List with Ruby on Rails 6 and Stimulus Reflex by TechmakerTV
-https://www.youtube.com/watch?v=eK1CM0MBF64
+Building a Reactive Todo List with Ruby on Rails 6 and Stimulus Reflex by TechmakerTV [link](https://www.youtube.com/watch?v=eK1CM0MBF64)
 
-Episode #209 - Reactive Applications with Stimulus Reflex by DriftingRuby (Preview, full episode paid content)
-https://www.youtube.com/watch?v=K9QeC9CsYiU
+Episode #209 - Reactive Applications with Stimulus Reflex by DriftingRuby [link to preview](https://www.youtube.com/watch?v=K9QeC9CsYiU)
 
-Introduction to StimulusReflex by GoRails
-https://www.youtube.com/watch?v=gbMbGOigjA8
+Introduction to StimulusReflex by GoRails [link](https://www.youtube.com/watch?v=gbMbGOigjA8)
 
-Create Fast Apps With Stimulus Reflex And RailsBytes Templates In Ruby On Rails 6 by Deanin
-https://www.youtube.com/watch?v=hxqkTy2SB78
+Create Fast Apps With Stimulus Reflex And RailsBytes Templates In Ruby On Rails 6 by Deanin [link](https://www.youtube.com/watch?v=hxqkTy2SB78)
 
-Stimulus Reflex Morph Modes | Selector Morphs with Rails View Components by TechmakerTV
-https://www.youtube.com/watch?v=bwFrjIC8wfE
+Stimulus Reflex Morph Modes | Selector Morphs with Rails View Components by TechmakerTV [link] (https://www.youtube.com/watch?v=bwFrjIC8wfE)
 
 ## Reading
 
@@ -65,45 +59,45 @@ Blog posts and other stuff that you can read.
 
 ### Documentation
 
-StimulusReflex Documentation
-https://docs.stimulusreflex.com/
+[StimulusReflex Documentation](https://docs.stimulusreflex.com/)
 
 ### Introductory Blog Posts
 
-https://dev.to/finiam/reactive-rails-applications-with-stimulusreflex-48kn
+[Reactive Rails Applications with StimulusReflex](https://dev.to/finiam/reactive-rails-applications-with-stimulusreflex-48kn)
 
 ### Hype
 
-https://medium.com/@obie/react-is-dead-long-live-reactive-rails-long-live-stimulusreflex-and-viewcomponent-cd061e2b0fe2
+The [excited blog post](https://medium.com/@obie/react-is-dead-long-live-reactive-rails-long-live-stimulusreflex-and-viewcomponent-cd061e2b0fe2) that I wrote when I figured out Reactive Rails is all about.
+
+## Useful Libraries
+
+[Shoelace](https://shoelace.style/) because once you're thinking in components, using pre-packaged web components becomes a lot more appealing.
+
+[StimulusControllers by Hopsoft](https://github.com/hopsoft/stimulus_controllers/tree/master/controllers/src) features a collection of useful Stimulus controllers like auto-suggest and copy to clipboard.
+
+[StimulusReflexGlobalId](https://github.com/joshleblanc/stimulus_reflex_globalid) automatically maps global IDs to instance variables during a reflex.
+
 
 ## Related Projects
 
-Motion is an integrated framework for reactive, real-time frontend UI components in your Rails application using pure Ruby that is probably the closest direct alternative to StimulusReflex.
-https://github.com/unabridged/motion
+[Motion](https://github.com/unabridged/motion) is an integrated framework for reactive, real-time frontend UI components in your Rails application using pure Ruby that is probably the closest direct alternative to StimulusReflex.
 
-Matestack is another alternative 
-https://www.matestack.io/
 
-Hyperstack is a Ruby DSL, compiled by Opal, bundled by Webpack, powered by React.
-https://hyperstack.org/
+[Matestack](https://www.matestack.io/) is another alternative 
 
-Build modern, reactive, real-time apps with Django in Python
-https://github.com/jonathan-s/django-sockpuppet
 
-Reactive Laravel
-https://github.com/livewire/livewire
+[Hyperstack](https://hyperstack.org/) is a Ruby DSL, compiled by Opal, bundled by Webpack, powered by React.
 
-Reactive Phoenix (Elixir)
-https://github.com/phoenixframework/phoenix_live_view
+Build modern, reactive, real-time apps with Django in Python with [Sockpuppet](https://github.com/jonathan-s/django-sockpuppet)
 
-Reactive ASP.NET
-https://github.com/dotnet/aspnetcore/blob/master/src/Components/README.md
+[Reactive Laravel](https://github.com/livewire/livewire)
 
-Prism is a framework for making web applications with Ruby and WebAssembly
-https://github.com/prism-rb/prism
+[Reactive Phoenix](https://github.com/phoenixframework/phoenix_live_view) is written in Elixir and inspired this whole thing.
 
-Once you're thinking in components, using pre-packaged web components becomes a lot more appealing https://shoelace.style/
+[Reactive ASP.NET](https://github.com/dotnet/aspnetcore/blob/master/src/Components/README.md)
+
+[Prism](https://github.com/prism-rb/prism) is a framework for making web applications with Ruby and WebAssembly
 
 ## Credits
 
-_Hat tip to https://github.com/skatkov/awesome-stimulusjs for the idea to write this guide._
+_Hat tip to [Skatkov](https://github.com/skatkov/awesome-stimulusjs) for the idea._
