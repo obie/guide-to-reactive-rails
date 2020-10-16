@@ -63,7 +63,13 @@ Blog posts and other stuff that you can read.
 
 ### Introductory Blog Posts
 
+[A future for Rails: StimulusReflex](https://headway.io/blog/a-future-for-rails-stimulusreflex) includes source for a chat app
+
 [Reactive Rails Applications with StimulusReflex](https://dev.to/finiam/reactive-rails-applications-with-stimulusreflex-48kn)
+
+### Tutorials
+
+[Twitter Clone with StimulusReflex gone Hybrid Native App](https://dev.to/julianrubisch/twitter-clone-with-stimulusreflex-gone-hybrid-native-app-17fm) builds on the original Hopsoft twitter clone video by turning it into a native app. 
 
 ### Hype
 
@@ -72,6 +78,8 @@ The [excited blog post](https://medium.com/@obie/react-is-dead-long-live-reactiv
 ## Useful Libraries
 
 [Shoelace](https://shoelace.style/) because once you're thinking in components, using pre-packaged web components becomes a lot more appealing.
+
+[Turbolinks iOS Wrapper](https://github.com/turbolinks/turbolinks-ios/) is the reactive Rails answer to React Native.
 
 [StimulusUse by Hopsoft](https://github.com/stimulus-use/stimulus-use) is a collection of composable behaviors for your Stimulus Controllers.
 
