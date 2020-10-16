@@ -5,7 +5,7 @@ This repository aims to briefly introduce the concept and showcase helpful conte
 
 _Reactive Rails_ is a term used to describe a particular design philosophy or architectural style of web application development using Ruby on Rails. The style sits in the middle of a hypothetical continuum having RESTful (aka "vanilla") HTML server-rendered apps on one extreme, and Rails API + React or other front-end framework single-page applications (SPA) on the other.
 
-Reactive Rails empowers small teams of full-stack Rails developers to produce rich, real-time user experiences with server-rendered HTML and minimal Javascript. It honors the motivating spirit of the Ruby on Rails framework, which is to allow small teams to do big things, while being unabashedly inspired by [Phoenix LiveView](https://github.com/phoenixframework/phoenix_live_view), a competing web framework written in Elixir.
+Reactive Rails empowers small teams of full-stack Rails developers to produce rich, real-time user experiences with server-rendered HTML and minimal JavaScript. It honors the motivating spirit of the Ruby on Rails framework, which is to allow small teams to do big things, while being unabashedly inspired by [Phoenix LiveView](https://github.com/phoenixframework/phoenix_live_view), a competing web framework written in Elixir.
 
 ### Why is it called "Reactive"?
 
@@ -13,7 +13,7 @@ Reactive Rails enables fast asynchronous _reaction_ to user events, which is som
 
 In Reactive Rails apps, user interactions are passed to the server over websockets instead of normal HTTP requests. Lightweight handlers change application state on the server, then the current page is automatically re-rendered and sent back to the browser. DOM diffing is used to change the screen to reflect the new application state without having to re-render the whole document. In best case scenarios, the screen can be updated in 20-30ms. Page refreshes under 200-300ms are generally considered to be imperceptible.
 
-Another reason that the style is called "Reactive" is that when you add component-oriented view design versus just templates, as many are doing, then the design patterns that emerge begin to resemble those used to write apps in React, except of course that the dominant programming language remains Ruby, instead of Javascript.
+Another reason that the style is called "Reactive" is that when you add component-oriented view design versus just templates, as many are doing, then the design patterns that emerge begin to resemble those used to write apps in React, except of course that the dominant programming language remains Ruby, instead of JavaScript.
 
 ### Reactive Rails technology stack
 
@@ -22,7 +22,7 @@ Reactive Rails is made possible by [ActionCable](https://guides.rubyonrails.org/
 While there are other frameworks that can be used to do reactive Rails development, the one with the most traction and momentum appears to be StimulusReflex, created by [Nate Hopkins aka hopsoft](https://github.com/hopsoft).
 
 #### StimulusReflex
-[StimulusReflex](https://docs.stimulusreflex.com/) is the main library added to Rails to make it "reactive". It is heavily inspired by StimulusJS and uses a similar syntax for hooking into browser events, except that instead of triggering actions on local Javascript-based controllers, it triggers them on the server via ActionCable channels. The reactions to those events on the server are implemented as "reflexes", a kind of lightweight controller action that is primarily concerned with mutating server state.
+[StimulusReflex](https://docs.stimulusreflex.com/) is the main library added to Rails to make it "reactive". It is heavily inspired by StimulusJS and uses a similar syntax for hooking into browser events, except that instead of triggering actions on local JavaScript-based controllers, it triggers them on the server via ActionCable channels. The reactions to those events on the server are implemented as "reflexes", a kind of lightweight controller action that is primarily concerned with mutating server state.
 
 #### CableReady
 StimulusReflex is built on top of [CableReady](https://cableready.stimulusreflex.com/), which is a wrapper around ActionCable that greately enhances its functionality, primarily by enabling direct control of the browser's DOM from the server.
