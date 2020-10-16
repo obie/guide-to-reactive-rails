@@ -71,6 +71,8 @@ Blog posts and other stuff that you can read.
 
 [Twitter Clone with StimulusReflex gone Hybrid Native App](https://dev.to/julianrubisch/twitter-clone-with-stimulusreflex-gone-hybrid-native-app-17fm) builds on the original Hopsoft twitter clone video by turning it into a native app. 
 
+[Reactive Map with Rails, Stimulus Reflex and Mapbox](https://dev.to/ilrock__/reactive-map-with-rails-stimulus-reflex-and-mapbox-1po4) leverages reactive Rails to quickly build a map application.
+
 ### Hype
 
 The [excited blog post](https://medium.com/@obie/react-is-dead-long-live-reactive-rails-long-live-stimulusreflex-and-viewcomponent-cd061e2b0fe2) that I wrote when I figured out Reactive Rails is all about.
