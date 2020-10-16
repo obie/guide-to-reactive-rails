@@ -83,9 +83,15 @@ Blog posts and other stuff that you can read.
 
 The [excited blog post](https://medium.com/@obie/react-is-dead-long-live-reactive-rails-long-live-stimulusreflex-and-viewcomponent-cd061e2b0fe2) that I wrote when I figured out Reactive Rails is all about.
 
+[Announcement of morph in StimulusReflex 3.3](https://dev.to/leastbad/stimulusreflex-v3-3-morphs-has-been-released-o3e) by leastbad, one of the most outspoken members of the StimulusReflex community.
+
 ## Useful Libraries
 
 [Shoelace](https://shoelace.style/) because once you're thinking in components, using pre-packaged web components becomes a lot more appealing.
+
+[Optimism](https://github.com/leastbad/optimism) drop-in remote form validation.
+
+[Futurism](https://github.com/julianrubisch/futurism) lazy-load view partials.
 
 [Turbolinks iOS Wrapper](https://github.com/turbolinks/turbolinks-ios/) is the reactive Rails answer to React Native.
 
@@ -99,6 +105,9 @@ The [excited blog post](https://medium.com/@obie/react-is-dead-long-live-reactiv
 
 [StimulusShortcut](https://github.com/leastbad/stimulus-shortcut) for simple binding of keystrokes to element actions.
 
+## Community
+
+[Community site for StimulusJS](https://discourse.stimulusjs.org/)
 
 ## Related Projects
 
