@@ -73,6 +73,12 @@ Blog posts and other stuff that you can read.
 
 [Reactive Map with Rails, Stimulus Reflex and Mapbox](https://dev.to/ilrock__/reactive-map-with-rails-stimulus-reflex-and-mapbox-1po4) leverages reactive Rails to quickly build a map application.
 
+[Infinite Horizontal Slider with CableReady and the Intersection Observer API](https://dev.to/julianrubisch/infinite-horizontal-slider-with-cableready-and-the-intersection-observer-api-4o4i)
+
+[Lightning fast reactive action with Stimulus Reflex partial morphs](https://dev.to/rolandstuder/lightning-fast-reactive-action-with-stimulus-reflex-partial-morphs-2fg5) introduces morphing in reflexes.
+
+[Using Tippy.js with StimulusReflex and CableReady](https://dev.to/mepatterson/using-tippy-js-with-stimulusreflex-and-cableready-3gno)
+
 ### Hype
 
 The [excited blog post](https://medium.com/@obie/react-is-dead-long-live-reactive-rails-long-live-stimulusreflex-and-viewcomponent-cd061e2b0fe2) that I wrote when I figured out Reactive Rails is all about.
@@ -90,6 +96,8 @@ The [excited blog post](https://medium.com/@obie/react-is-dead-long-live-reactiv
 [Stimulus Form Utilities by Hopsoft](https://github.com/eelcoj/stimulus-form-utilities) is a collection of useful form helpers like characters count for any input field and auto text-field resizing.
 
 [StimulusReflexGlobalId](https://github.com/joshleblanc/stimulus_reflex_globalid) automatically maps global IDs to instance variables during a reflex.
+
+[StimulusShortcut](https://github.com/leastbad/stimulus-shortcut) for simple binding of keystrokes to element actions.
 
 
 ## Related Projects
