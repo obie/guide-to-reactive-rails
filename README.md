@@ -119,6 +119,9 @@ The [excited blog post](https://medium.com/@obie/react-is-dead-long-live-reactiv
 
 [Hyperstack](https://hyperstack.org/) is a Ruby DSL, compiled by Opal, bundled by Webpack, powered by React.
 
+
+[Snabberb](https://github.com/tobymao/snabberb) A minimalistic reactive frontend web framework written in Ruby / Opal and based on Snabbdom.
+
 Build modern, reactive, real-time apps with Django in Python with [Sockpuppet](https://github.com/jonathan-s/django-sockpuppet)
 
 [Reactive Laravel](https://github.com/livewire/livewire)
