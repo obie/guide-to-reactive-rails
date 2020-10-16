@@ -95,7 +95,7 @@ The [excited blog post](https://medium.com/@obie/react-is-dead-long-live-reactiv
 
 [Turbolinks iOS Wrapper](https://github.com/turbolinks/turbolinks-ios/) is the reactive Rails answer to React Native.
 
-[StimulusUse by Hopsoft](https://github.com/stimulus-use/stimulus-use) is a collection of composable behaviors for your Stimulus Controllers.
+[StimulusUse by Adrien Poly](https://github.com/stimulus-use/stimulus-use) is a collection of composable behaviors for your Stimulus Controllers.
 
 [StimulusControllers by Hopsoft](https://github.com/hopsoft/stimulus_controllers/tree/master/controllers/src) features a collection of useful Stimulus controllers like auto-suggest and copy to clipboard.
 
