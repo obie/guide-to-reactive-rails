@@ -19,7 +19,7 @@ Another reason that the style is called "Reactive" is that when you add componen
 
 Reactive Rails is made possible by [ActionCable](https://guides.rubyonrails.org/action_cable_overview.html). It's also inspired, but does not necessarily require the use of [Turbolinks 5](https://github.com/turbolinks/turbolinks) and [StimulusJS](https://stimulusjs.org/).
 
-While there are other frameworks that can be used to do reactive Rails development, the one with the most traction and momentum appears to be StimulusReflex, created by [Nate Hopkins aka hopsoft](https://github.com/hopsoft).
+While there are other frameworks that can be used to do reactive Rails development, the one with the most traction, momentum, and community is StimulusReflex, created by [Nate Hopkins aka hopsoft](https://github.com/hopsoft), which builds heavily on the foundation of StimulusJS.
 
 #### StimulusReflex
 [StimulusReflex](https://docs.stimulusreflex.com/) is the main library added to Rails to make it "reactive". It is heavily inspired by StimulusJS and uses a similar syntax for hooking into browser events, except that instead of triggering actions on local JavaScript-based controllers, it triggers them on the server via ActionCable channels. The reactions to those events on the server are implemented as "reflexes", a kind of lightweight controller action that is primarily concerned with mutating server state.
@@ -100,6 +100,8 @@ The [excited blog post](https://medium.com/@obie/react-is-dead-long-live-reactiv
 [Futurism](https://github.com/julianrubisch/futurism) lazy-load view partials.
 
 [Turbolinks iOS Wrapper](https://github.com/turbolinks/turbolinks-ios/) is the reactive Rails answer to React Native.
+
+[StimulusComponents](https://github.com/stimulus-components) is a collection of usesful Stimulus components.
 
 [StimulusUse by Adrien Poly](https://github.com/stimulus-use/stimulus-use) is a collection of composable behaviors for your Stimulus Controllers.
 
