@@ -36,7 +36,9 @@ StimulusReflex is built on top of [CableReady](https://cableready.stimulusreflex
 
 ## Examples and Demos / Sample Code
 
-[Working example apps](http://expo.stimulusreflex.com/) like Chat, Calendar, Todo, and more, with full source code.
+[StimulusReflex showcase](http://expo.stimulusreflex.com/) like Chat, Calendar, Todo, and more, with full source code.
+
+[ViewComponentReflex showcase](https://view-component-reflex-expo.grep.sh/) has Local State, Loaders, Todos, and Data Table examples and code.
 
 [Toast-style alerts system](https://gist.github.com/obie/5c56d87c7b7e4e343ef7504349a69515) using [Shoelace](https://shoelace.style/)
 
@@ -117,16 +119,13 @@ The [excited blog post](https://medium.com/@obie/react-is-dead-long-live-reactiv
 
 [Motion](https://github.com/unabridged/motion) is an integrated framework for reactive, real-time frontend UI components in your Rails application using pure Ruby that is probably the closest direct alternative to StimulusReflex.
 
-
 [Matestack](https://www.matestack.io/) is another alternative 
-
 
 [Hyperstack](https://hyperstack.org/) is a Ruby DSL, compiled by Opal, bundled by Webpack, powered by React.
 
-
 [Snabberb](https://github.com/tobymao/snabberb) A minimalistic reactive frontend web framework written in Ruby / Opal and based on Snabbdom.
 
-Build modern, reactive, real-time apps with Django in Python with [Sockpuppet](https://github.com/jonathan-s/django-sockpuppet)
+[Sockpuppet](https://github.com/jonathan-s/django-sockpuppet) Build modern, reactive, real-time apps with Django in Python 
 
 [Reactive Laravel](https://github.com/livewire/livewire)
 
