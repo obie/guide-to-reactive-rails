@@ -30,6 +30,10 @@ StimulusReflex is built on top of [CableReady](https://cableready.stimulusreflex
 #### ViewComponent
 [ViewComponent](https://github.com/github/view_component) is a framework extracted from Github's main monolith application that is used to build view components that are, in their words, "reusable, testable & encapsulated". The use of view components makes reactive Rails development feel a little bit like writing React code, because of the latter's emphasis on component classes for constructing its views.
 
+#### ViewComponentReflex
+[ViewComponentReflex](https://github.com/joshleblanc/view_component_reflex) allows you to write reflexes right in your view component code, making it feel very much like [Motion](https://github.com/unabridged/motion).
+
+
 ## Examples and Demos / Sample Code
 
 [Working example apps](http://expo.stimulusreflex.com/) like Chat, Calendar, Todo, and more, with full source code.
