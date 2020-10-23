@@ -42,6 +42,8 @@ StimulusReflex is built on top of [CableReady](https://cableready.stimulusreflex
 
 [Toast-style alerts system](https://gist.github.com/obie/5c56d87c7b7e4e343ef7504349a69515) using [Shoelace](https://shoelace.style/)
 
+[Modern Datatables](https://github.com/guillaumebriday/modern-datatables) is a repo with two apps and running demos, one with classic, old school Rails application with server rendered views, Stimulus, Stimulus Reflex and Turbolinks, and the other with Rails as a backend API and Vue.js as a full static SPA in the frontend.
+
 ## Videos
 
 ### The "Twitter in 10 minutes" video
