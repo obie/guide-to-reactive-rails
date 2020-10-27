@@ -115,6 +115,8 @@ The [excited blog post](https://medium.com/@obie/react-is-dead-long-live-reactiv
 
 [StimulusShortcut](https://github.com/leastbad/stimulus-shortcut) for simple binding of keystrokes to element actions.
 
+[TailwindCSS StimulusComponents](https://github.com/excid3/tailwindcss-stimulus-components) inspired by Bootstrap components.
+
 ## Testing Resources
 
 [StimulusReflex Testing](https://github.com/podia/stimulus_reflex_testing) has support for unit-testing your reflexes.
