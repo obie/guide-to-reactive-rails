@@ -44,6 +44,8 @@ StimulusReflex is built on top of [CableReady](https://cableready.stimulusreflex
 
 [Modern Datatables](https://github.com/guillaumebriday/modern-datatables) is a repo with two apps and running demos, one with classic, old school Rails application with server rendered views, Stimulus, Stimulus Reflex and Turbolinks, and the other with Rails as a backend API and Vue.js as a full static SPA in the frontend.
 
+[Boxdrop](https://github.com/marcoroth/boxdrop) is a Dropbox-Clone built using StimulusReflex to demonstrate how you can use StimulusReflex to build an application.
+
 ## Videos
 
 ### The "Twitter in 10 minutes" video
