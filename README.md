@@ -63,6 +63,8 @@ Create Fast Apps With Stimulus Reflex And RailsBytes Templates In Ruby On Rails 
 
 Stimulus Reflex Morph Modes | Selector Morphs with Rails View Components by TechmakerTV [link] (https://www.youtube.com/watch?v=bwFrjIC8wfE)
 
+[Two Patterns for Stimulus Reflex form submissions](https://blog.minthesize.com/two-patterns-for-stimulus-reflex-form-submissions)
+
 ## Reading
 
 Blog posts and other stuff that you can read.
