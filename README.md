@@ -51,6 +51,8 @@ StimulusReflex is built on top of [CableReady](https://cableready.stimulusreflex
 ### The "Twitter in 10 minutes" video
 Mainstream awareness (among Rails developers, anyway) of Reactive Rails was stimulated (ha!) by Hopsoft's [Build a real-time Twitter clone in 10 mins with Rails and StimulusReflex](https://dev.to/codefund/build-a-real-time-twitter-clone-10-mins-with-rails-and-stimulusreflex-5h5c) video, kind of like how Ruby on Rails original hype cycle was sparked off by DHH's [How to build a blog engine in 15 minutes](https://www.youtube.com/watch?v=Gzj723LkRJY&feature=youtu.be).
 
+There's also a nice blogpost by [Mike McCracken](https://medium.com/@mikemccracken/stimulusreflex-twitter-clone-in-more-than-9-minutes-b556dc512a62) that documents his experience trying to follow along with the Twitter clone tutorial.
+
 ### Tutorials
 
 Building a Reactive Todo List with Ruby on Rails 6 and Stimulus Reflex by TechmakerTV [link](https://www.youtube.com/watch?v=eK1CM0MBF64)
