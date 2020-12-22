@@ -1,6 +1,8 @@
 # Guide to Reactive Rails
 This repository aims to briefly introduce the concept and showcase helpful content that may help you on your Reactive Rails journey. Watch this repository to stay up to date on the latest information published on the web about Reactive Rails. (Contributions welcome, just send a PR.)
 
+Also available in [Japanese](https://github.com/obie/guide-to-reactive-rails/blob/main/README.jp.md)
+
 ## What is Reactive Rails?
 
 _Reactive Rails_ is a term used to describe a particular design philosophy or architectural style of web application development using Ruby on Rails. The style sits in the middle of a hypothetical continuum having RESTful (aka "vanilla") HTML server-rendered apps on one extreme, and Rails API + React or other front-end framework single-page applications (SPA) on the other.
