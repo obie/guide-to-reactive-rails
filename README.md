@@ -135,6 +135,8 @@ The [excited blog post](https://medium.com/@obie/react-is-dead-long-live-reactiv
 
 ## Related Projects
 
+[Hotwire](https://hotwire.dev/), officially launched in December 2020 is how DHH does reactive Rails in Hey.com. If it succeeds, it should further legitimize reactive Rails techniques and bring its methods to the masses. 
+
 [Motion](https://github.com/unabridged/motion) is an integrated framework for reactive, real-time frontend UI components in your Rails application using pure Ruby that is probably the closest direct alternative to StimulusReflex.
 
 [Matestack](https://www.matestack.io/) is another alternative 
